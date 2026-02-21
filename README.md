@@ -22,3 +22,7 @@ The wiring is shown in this figure:
 Parameters can be changed via serial (baud rate 115200), send `help` to serial to see instructions.
 
 It is recommended to change `right_lim_inf`, `right_lim_sup`, `left_lim_inf`, `left_lim_sup` to fit your servo installation, change `encoder_calibration` and `gyro_calibration` to fit your sensor installation, and change `Cn_beta` (coefficient of sideslip angle) and `Cn_damper` (coefficient of yaw rate) to fit your aircraft design.
+
+# Beginner Documentation
+A structured beginner tutorial set is available in [`docs/README.md`](./docs/README.md).
+
